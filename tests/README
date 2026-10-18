@@ -1,0 +1,27 @@
+# AidFlow Initial Test Plan
+
+## Purpose
+This document outlines the initial tests planned for AidFlow.
+
+## Test Cases
+
+TC01 – User Registration
+Verify that a donor can register with valid information.
+
+TC02 – Donation Offer
+Verify that a donor can submit an offer with an item description and quantity.
+
+TC03 – Campaign Creation
+Verify that a coordinator can create a campaign with requested items and a deadline.
+
+TC04 – Offer Review
+Verify that a coordinator can accept, reject, or request clarification for a donation offer.
+
+TC05 – Inventory Integrity
+Verify that pledged donations are not counted as received stock.
+
+TC06 – Access Control
+Verify that unauthorized users cannot view private donor information.
+
+## Test Status
+These test cases are proposed for future implementation and execution.
